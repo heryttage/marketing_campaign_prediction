@@ -1,6 +1,4 @@
-# Interview Questions & Answers — Campaign Response Prediction
-
-Prepared to explain this project confidently in a Data Analyst / Junior Data Scientist interview.
+# Questions & Answers — Campaign Response Prediction
 
 ### 1. What problem does this project solve?
 Marketing was contacting entire customer lists, but only ~17% respond. I built a model that scores each customer's probability of responding so the team can target the high-probability segment, cutting send cost and contact fatigue while keeping most of the revenue.
